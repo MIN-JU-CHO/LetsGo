@@ -17,6 +17,7 @@ void AMinjuCho::BeginPlay()
 	Super::BeginPlay();
 
 	UE_LOG(LogTemp, Warning, TEXT("I won GameJam in 2023."))
+	UE_LOG(LogTemp, Warning, TEXT("I will win GameJam in 2024."))
 	
 }
 
